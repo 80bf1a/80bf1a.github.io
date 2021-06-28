@@ -1,6 +1,6 @@
 ---
 title: Child of Test
-parent: Test
+parent: Data
 has_children: true
 nav_order: 1
 ---
