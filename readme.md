@@ -1,5 +1,4 @@
 ## Bon chance.
 
-```markdown
 🕳️🐇
-```
+
